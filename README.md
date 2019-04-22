@@ -1,5 +1,7 @@
-# Deep_Learning
-Project & Homework of Deep Learning Course(交大簡仁宗老師)
+# ECM9042_Deep_Learning
+Project & Homework of Deep Learning Course
+
+Instructor：簡仁宗(NCTU)
 
 Time: 2019 Spring Semester
 
