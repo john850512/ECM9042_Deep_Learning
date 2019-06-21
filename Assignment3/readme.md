@@ -8,6 +8,6 @@ for more detail, please see the pdf files.
 two problems have same dataset, which is contain two style(cartoon and animation) images, but I haven't upload this dataset.
 
 ## Code
-- first problem please see [hw2_p1_0756708.ipynb](https://github.com/john850512/ECM9042_Deep_Learning/blob/master/Assignment2/hw2_p1_0756708.ipynb)
-- second problem please see [hw2_p2_0756708.ipynb](https://github.com/john850512/ECM9042_Deep_Learning/blob/master/Assignment2/hw2_p2_0756708.ipynb)
+- first problem please see [VAE.ipynb](https://github.com/john850512/ECM9042_Deep_Learning/blob/master/Assignment3/VAE.ipynb)
+- second problem please see [cyclegan_train.ipynb](https://github.com/john850512/ECM9042_Deep_Learning/blob/master/Assignment3/cyclegan_train.ipynb) and [cyclegan_test.ipynb](https://github.com/john850512/ECM9042_Deep_Learning/blob/master/Assignment3/cyclegan_test.ipynb)
 
