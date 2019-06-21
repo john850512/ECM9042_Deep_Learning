@@ -10,10 +10,10 @@ Permanent course No.：ECM9042
 ## What is each folder doing?
 I listed what I had done for each folder below:
 - [Assignment 1](https://github.com/john850512/Deep_Learning/tree/master/Assignment1): Backpropagation implementation.
-- [Assignment 2](): CNN for image classification & LSTM for predict paper acceptance.
-- [Assignment 3](): VAE for style transfer & CycleGan implementation.
+- [Assignment 2](https://github.com/john850512/ECM9042_Deep_Learning/tree/master/Assignment2): CNN for image classification & LSTM for predict paper acceptance.
+- [Assignment 3](https://github.com/john850512/ECM9042_Deep_Learning/tree/master/Assignment3): VAE for style transfer & CycleGan implementation.
 - [Final Project](): Chinese lyrics generation.
-- [Final Exam Note](): Note for final exam(two A4 paper)
+- [Final Exam Note](https://github.com/john850512/ECM9042_Deep_Learning/tree/master/Final%20Exam%20Note): Note for final exam(two A4 paper)
 ## Detail
 You can get the detail information from each folder.
 
